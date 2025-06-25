@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07f8e150-ae65-43c0-b76e-8eaf299d2341" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/joblisting/src/main/java/com/mahimascode/joblisting/model/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/joblisting/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/joblisting/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/joblisting/src/main/java/com/mahimascode/joblisting/JoblistingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/joblisting/src/main/java/com/mahimascode/joblisting/JoblistingApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/joblisting/src/main/java/com/mahimascode/joblisting/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/joblisting/src/main/java/com/mahimascode/joblisting/controller/PostController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
