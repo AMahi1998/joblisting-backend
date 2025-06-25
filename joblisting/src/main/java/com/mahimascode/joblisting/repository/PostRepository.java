@@ -1,4 +1,4 @@
-package com.mahimascode.joblisting;
+package com.mahimascode.joblisting.repository;
 
 import com.mahimascode.joblisting.model.Post;
 import org.springframework.data.mongodb.repository.MongoRepository;
