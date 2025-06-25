@@ -1,12 +1,23 @@
 package com.mahimascode.joblisting.model;
 
-import java.util.Arrays;
+import org.springframework.data.mongodb.core.mapping.Document;
 
+import java.util.Arrays;
+@Document(collection = "JobPost")
 public class Post {
     private String profile;
     private String desc;
-    private int exp;
-    private String techs[];
+    private String exp;
+
+    public String getExp() {
+        return exp;
+    }
+
+    public void setExp(String exp) {
+        this.exp = exp;
+    }
+
+    private String[] techs;
 
     @Override
     public String toString() {
@@ -37,13 +48,7 @@ public class Post {
         this.desc = desc;
     }
 
-    public int getExp() {
-        return exp;
-    }
 
-    public void setExp(int exp) {
-        this.exp = exp;
-    }
 
     public String[] getTechs() {
         return techs;
